@@ -1,0 +1,13 @@
+digraph G {
+
+producto1->producto2
+producto2->producto1
+producto2->producto3
+producto3->producto2
+producto3->producto5
+producto5->producto3
+producto5->producto1
+producto1->producto5
+
+
+}
